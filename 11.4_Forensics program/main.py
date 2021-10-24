@@ -56,6 +56,4 @@ elif gene_pool["green_eyes"] in genes:
 else:
     print("Suspect has brown eyes.")
 
-
-
 print("---------------------------------")
